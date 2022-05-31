@@ -91,7 +91,7 @@ function startAction(){
 
         }
     }
-    },10); //move fruit by one step
+    },30); //move fruit by one step
 
 }
 
